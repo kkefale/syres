@@ -1,6 +1,6 @@
 
 
-## Art as Repetition: The Resonance of Patterns in Contemporary Imagery
+## Art as Repetition: The Resonance of Patterns in Contemporary Imagery (pushed from Obsidian)
 
 In a visual culture oversaturated with casual photography, it is easy to overlook the potential depth and complexity inherent in everyday images. Rather than relying on singular, isolated shots, a more meaningful artistic resonance emerges when images are curated into series united by shared formal and thematic elements. Principles of repetition, thematic coherence, and minimalist aesthetics—well-established in art theory and aesthetics—allow such sequences to transcend ordinary documentation and attain a meditative, emotionally resonant quality.
 
