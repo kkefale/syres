@@ -7,7 +7,7 @@ Show Notes:
 
 [Proposal 2: Art as a System](./another-page.html).
 
-[[Proposal 3]]
+[Proposal 3](./Proposal-3.md)
 
-[[Proposal 4]]
+[Proposal 4](./Proposal44.md)
 
