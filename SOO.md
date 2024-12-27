@@ -2,7 +2,7 @@
 ### Research Proposal
 
 #### Title
-**Making Second-Order Observation Explicit: Transforming Institutional Research into a Cohesive Framework for Functional Differentiation**
+**::Making Second-Order Observation Explicit:: Transforming Institutional Research into a Cohesive Framework for Functional Differentiation**
 
 ---
 ### Abstract
